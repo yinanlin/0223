@@ -1,3 +1,7 @@
 Test git
 Add Branch 1
 Branch: add one line
+
+Branch 2: add one line at master
+
+Branch 2: add one more line at Master
